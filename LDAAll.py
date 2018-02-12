@@ -13,7 +13,7 @@ print("Shape of training label: {}".format(y_train.shape))
 print("Shape of testing set: {}".format(X_test.shape))
 
 from sklearn.discriminant_analysis import LinearDiscriminantAnalysis 
-lda = LinearDiscriminantAnalysis(n_components=5)
+lda = LinearDiscriminantAnalysis(n_components=50)
 
 lda.fit(X_train, y_train)
 X_train_lda = lda.transform(X_train)
