@@ -109,3 +109,9 @@ venv.bak/
 # docfiles
 .doc
 .docx
+
+TextFiles/
+TutorialsHTML/
+PythonPR/
+Processed/
+FixTrain/
