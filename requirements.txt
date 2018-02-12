@@ -1,0 +1,13 @@
+Flask
+matplotlib
+itsdangerous
+Jinja2
+MarkupSafe
+numpy
+Pillow
+scikit-learn
+scipy
+sklearn
+Werkzeug
+WTForms
+gunicorn
