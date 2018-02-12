@@ -107,4 +107,5 @@ venv.bak/
 .vscode/settings.json
 
 # docfiles
+.doc
 .docx
